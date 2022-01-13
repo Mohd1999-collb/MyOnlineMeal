@@ -60,6 +60,8 @@
 .btn_1{
     font-size: 8px;
     padding: 4px 8px;
-    margin: 17px 140px;
+    display: block;
+    width: 17%;
+    margin: auto;
     border-radius: 5px;
 }
